@@ -100,63 +100,7 @@
             android:layout_height="match_parent"
             android:orientation="vertical"
             android:layout_weight="1"
-            android:padding="15dp">
-
-            <com.zolad.zoominimageview.ZoomInImageView
-                android:layout_width="154dp"
-                android:layout_height="103dp"
-                android:src="@drawable/futsal"/>
-
-            <TextView
-                android:layout_width="181dp"
-                android:layout_height="wrap_content"
-                android:text="Futsal"
-                android:textStyle="bold"
-                android:paddingLeft="10dp"/>
-
-            <ImageView
-
-                android:layout_width="154dp"
-                android:layout_height="103dp"
-                app:srcCompat="@drawable/voli" />
-
-            <TextView
-
-                android:layout_width="168dp"
-                android:layout_height="22dp"
-                android:text="Volly"
-                android:textStyle="bold"
-                android:paddingLeft="10dp"/>
-
-            <ImageView
-
-                android:layout_width="156dp"
-                android:layout_height="102dp"
-                app:srcCompat="@drawable/basket" />
-
-            <TextView
-
-                android:layout_width="178dp"
-                android:layout_height="26dp"
-                android:text="Basket"
-                android:textStyle="bold"
-                android:paddingLeft="10dp"/>
-
-            <ImageView
-
-                android:layout_width="158dp"
-                android:layout_height="107dp"
-                app:srcCompat="@drawable/hadroh" />
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Hadroh"
-                android:textStyle="bold"
-                android:paddingLeft="10dp"/>
-
-        </LinearLayout>
+            android:padding="15dp"/>
         </LinearLayout>
 
     </LinearLayout>
