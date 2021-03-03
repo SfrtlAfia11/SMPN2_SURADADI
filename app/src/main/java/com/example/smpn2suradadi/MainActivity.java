@@ -54,5 +54,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, InformasiActivity.class);
         startActivity(intent);
     }
+    public void agenda(View view) {
+        Intent intent = new Intent(MainActivity.this, AgendaActivity.class);
+        startActivity(intent);
+    }
+
 
 }

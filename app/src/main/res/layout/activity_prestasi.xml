@@ -53,7 +53,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="JUARA 1 BULUTANGKIS"
+                    android:text="JUARA 1 TEATER"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />
@@ -94,7 +94,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="JUARA 1 SEPAKBOLA"
+                    android:text="JUARA 1 PASKIBRAKA"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />
@@ -174,7 +174,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="JUARA 2 KARATE"
+                    android:text="JUARA 2 FUTSAL"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />
@@ -254,7 +254,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
-                    android:text="JUARA 2 RENANG"
+                    android:text="JUARA 2 BASKET"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />
