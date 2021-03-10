@@ -74,6 +74,7 @@
                     android:layout_marginRight="5sp"
                     android:text="OSIS diurus dan dikelola oleh murid-murid yang terpilih untuk menjadi pengurus OSIS. Biasanya organisasi ini memiliki seorang pembimbing dari guru yang dipilih oleh pihak sekolah. Anggota OSIS adalah seluruh siswa yang berada pada satu sekolah tempat OSIS itu berada."
                     android:textColor="#000"
+                    android:paddingLeft="10dp"
                     android:textSize="10sp" />
 
                 <TextView
@@ -206,7 +207,7 @@
                     android:layout_marginLeft="2dp"
                     android:layout_marginTop="2dp"
                     android:layout_marginRight="2dp"
-                    android:src="@drawable/paskibra" />
+                    android:src="@drawable/pmr" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -405,7 +406,7 @@
                     android:layout_marginLeft="5sp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5sp"
-                    android:text="Futsal adalah permainan bola yang dimainkan oleh dua tim, yang masing-masing beranggotakan lima orang. Tujuannya adalah memasukkan bola ke gawang lawan, dengan memanipulasi bola dengan kaki. Selain lima pemain utama, setiap regu juga diizinkan memiliki pemain cadangan"
+                    android:text="Bola basket adalah olahraga bola berkelompok yang terdiri atas dua tim beranggotakan masing-masing lima orang yang saling bertanding mencetak poin dengan memasukkan bola ke dalam keranjang lawan. "
                     android:textColor="#000"
                     android:textSize="10sp" />
 
@@ -451,7 +452,7 @@
                     android:layout_marginLeft="2dp"
                     android:layout_marginTop="2dp"
                     android:layout_marginRight="2dp"
-                    android:src="@drawable/teater" />
+                    android:src="@drawable/karawitan" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -472,7 +473,7 @@
                     android:layout_marginLeft="5sp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5sp"
-                    android:text="ORGANISASI TEATER"
+                    android:text="ORGANISASI KARAWITAN"
                     android:textColor="#000"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -484,7 +485,244 @@
                     android:layout_marginLeft="5sp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5sp"
-                    android:text="Futsal adalah permainan bola yang dimainkan oleh dua tim, yang masing-masing beranggotakan lima orang. Tujuannya adalah memasukkan bola ke gawang lawan, dengan memanipulasi bola dengan kaki. Selain lima pemain utama, setiap regu juga diizinkan memiliki pemain cadangan"
+                    android:text="Karawitan adalah seni musik tradisional Jawadengan peralatan yang lengkap dan telah berkembang secara turun-temurun sesuai dengan perkembangan jaman dan tidak meninggalkan keasliannya.
+Perangkat peralatan musik tradisional itu disebut Gamelan, yang terdiri dari bermacam-macam alat atau ricikan."
+                    android:textColor="#000"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginRight="5sp"
+                    android:text="JADWAL PERTEMUAN:"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="90dp"
+                    android:layout_marginRight="5sp"
+                    android:text="SABTU PUKUL 15.00-17.OO"
+                    android:textColor="#000"
+                    android:textSize="9sp" />
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginRight="2dp"
+                    android:src="@drawable/tari2" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5sp"
+                    android:text="SENI TARI"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="5sp"
+                    android:text="Seni tari adalah suatu gerakan yang berirama, dilakukan di suatu tempat dan waktu tertentu untuk mengekpresikan suatu perasaan dan menyampaikan pesan dari seseorang maupun kelompok."
+                    android:textColor="#000"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginRight="5sp"
+                    android:text="JADWAL PERTEMUAN:"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="90dp"
+                    android:layout_marginRight="5sp"
+                    android:text="SABTU PUKUL 15.00-17.OO"
+                    android:textColor="#000"
+                    android:textSize="9sp" />
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginRight="2dp"
+                    android:src="@drawable/paskibra" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5sp"
+                    android:text="ORGANISASI PASKIBRA"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="5sp"
+                    android:text="Ekstrakurikuler (ekskul) pasukan pengibar bendera (paskibra) tidak hanya dikenalkan dengan baris-berbaris. Lebih dari itu, siswa bisa mendapatkan banyak pendidikan karakter seperti kedisiplinan, ketangguhan, dan jiwa kepemimpinan."
+                    android:textColor="#000"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginRight="5sp"
+                    android:text="JADWAL PERTEMUAN:"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="90dp"
+                    android:layout_marginRight="5sp"
+                    android:text="SABTU PUKUL 15.00-17.OO"
+                    android:textColor="#000"
+                    android:textSize="9sp" />
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginRight="2dp"
+                    android:src="@drawable/voli" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5sp"
+                    android:text="ORGANISASI VOLLY"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="5sp"
+                    android:text="Bola voli adalah permainan olahraga yang dimainkan oleh dua grup berlawanan. Masing-masing grup memiliki enam orang pemain."
                     android:textColor="#000"
                     android:textSize="10sp" />
 

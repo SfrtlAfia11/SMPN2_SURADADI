@@ -81,7 +81,7 @@
                                     <ImageView
                                         android:layout_width="80dp"
                                         android:layout_height="80dp"
-                                        android:src="@drawable/profil"
+                                        android:src="@drawable/profile"
                                         android:layout_gravity="center"
                                         android:layout_margin="10dp"
                                         android:onClick="profil"/>
@@ -261,7 +261,7 @@
                                         android:layout_gravity="center"
                                         android:textSize="20dp"
                                         android:textColor="@color/white"
-                                        android:text="Prestasi"
+                                        android:text="PRESTASI"
                                         />
                                 </LinearLayout>
 
@@ -329,7 +329,7 @@
                                     <ImageView
                                         android:layout_width="80dp"
                                         android:layout_height="80dp"
-                                        android:src="@drawable/agenda"
+                                        android:src="@drawable/agenda1"
                                         android:layout_gravity="center"
                                         android:layout_margin="10dp"
                                         android:onClick="agenda"
@@ -343,7 +343,7 @@
                                         android:textSize="20dp"
                                         android:textColor="@color/white"
                                         android:onClick="agenda"
-                                        android:text="Agenda"
+                                        android:text="AGENDA"
                                         />
                                 </LinearLayout>
 
@@ -382,7 +382,7 @@
                                         android:layout_gravity="center"
                                         android:textSize="20dp"
                                         android:textColor="@color/white"
-                                        android:text="Staf guru"
+                                        android:text="STAF GURU"
                                         />
                                 </LinearLayout>
 

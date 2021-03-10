@@ -6,7 +6,7 @@
         android:allowBackup="true"
         android:icon="@drawable/logosmpn8tegal"
         android:label="SMPN 8 TEGAL"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logosmpn8tegal"
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPN2SURADADI">
 
