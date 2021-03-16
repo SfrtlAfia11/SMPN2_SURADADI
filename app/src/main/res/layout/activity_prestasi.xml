@@ -1355,7 +1355,8 @@
                 app:cardCornerRadius="10dp">
 
                 <TextView
-                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="30dp"
                     android:text="JUARA 2 RENANG GAYAPUNGGUNG"
@@ -1963,6 +1964,12 @@
                     android:textColor="#F44336"
                     android:textSize="17sp"
                     android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/prakarya" />
 
                 <TextView
                     android:layout_width="wrap_content"
