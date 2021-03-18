@@ -21,13 +21,13 @@
 
 
             <ImageView
-                android:layout_width="320dp"
-                android:layout_height="200dp"
-                android:src="@drawable/futsal"
-                android:scaleType="centerCrop"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
                 android:layout_gravity="center|end"
                 android:layout_marginBottom="15dp"
-                app:layout_collapseMode="parallax"/>
+                android:scaleType="centerCrop"
+                android:src="@drawable/kelas"
+                app:layout_collapseMode="parallax" />
             <androidx.appcompat.widget.Toolbar
                 android:id="@+id/toolar"
                 android:layout_width="match_parent"
@@ -52,10 +52,10 @@
                 android:id="@+id/textView2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
                 android:gravity="center_vertical"
                 android:text="Nama Sekolah"
                 android:textColor="@color/teal_200"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
@@ -72,6 +72,20 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical"
+                android:text="Nama Sekolah"
+                android:textColor="@color/teal_200"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="DuplicateIds,MissingConstraints" />
+
 
             <TextView
                 android:id="@+id/textView3"
@@ -93,7 +107,7 @@
                 android:layout_marginLeft="8dp"
                 android:layout_marginBottom="256dp"
                 android:autoLink="phone"
-                android:text="0823358803"
+                android:text="085642981711"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.046"
@@ -130,6 +144,7 @@ Segera kunjungi SMP negeri terdekat ini untuk info pendaftaran siswa-siswi baru,
 
                 app:layout_anchorGravity="center"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.626"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView4" />
 

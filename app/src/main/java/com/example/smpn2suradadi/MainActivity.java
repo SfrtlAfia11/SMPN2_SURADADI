@@ -58,6 +58,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, AgendaActivity.class);
         startActivity(intent);
     }
+   // public void galeri(View view) {
+      //  Intent intent = new Intent(MainActivity.this, Galeri.class);
+       // startActivity(intent);
+    }
 
 
-}
