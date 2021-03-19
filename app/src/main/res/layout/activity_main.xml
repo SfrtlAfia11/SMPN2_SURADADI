@@ -398,7 +398,7 @@
                                         android:layout_height="80dp"
                                         android:layout_gravity="center"
                                         android:layout_margin="10dp"
-                                        android:onClick="Galeri"
+                                        android:onClick="galeri"
                                         android:src="@drawable/galeri" />
 
                                     <TextView
@@ -406,7 +406,7 @@
                                         android:layout_height="wrap_content"
                                         android:layout_gravity="center"
                                         android:gravity="center"
-                                        android:onClick="GALERI"
+                                        android:onClick="galeri"
                                         android:text="GALERI"
                                         android:textColor="@color/white"
                                         android:textSize="20dp"
@@ -431,38 +431,6 @@
                             android:layout_height="150dp"
                             android:layout_weight="1"
                             >
-                            <androidx.cardview.widget.CardView
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:layout_margin="3dp"
-                                android:padding="1dp"
-                                app:cardCornerRadius="15dp">
-                                <LinearLayout
-                                    android:layout_width="match_parent"
-                                    android:layout_height="match_parent"
-                                    android:orientation="vertical"
-                                    android:background="@color/design_default_color_primary">
-
-                                    <ImageView
-                                        android:layout_width="80dp"
-                                        android:layout_height="80dp"
-                                        android:layout_gravity="center"
-                                        android:layout_margin="10dp"
-                                        android:src="@drawable/kotaksaran"
-                                        android:onClick="tugas"/>
-                                    <TextView
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="wrap_content"
-                                        android:textStyle="bold"
-                                        android:gravity="center"
-                                        android:layout_gravity="center"
-                                        android:textSize="20dp"
-                                        android:textColor="@color/white"
-                                        android:text="STAF GURU"
-                                        />
-                                </LinearLayout>
-
-                            </androidx.cardview.widget.CardView>
 
                         </LinearLayout>
 
