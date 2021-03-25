@@ -42,11 +42,11 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:scaleType="centerCrop"
-                                android:src="@drawable/upacara" />
+                                android:src="@drawable/guru2" />
                             <com.zolad.zoominimageview.ZoomInImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:src="@drawable/pramuka"
+                                android:src="@drawable/upacara"
                                 android:scaleType="fitXY"/>
                             <com.zolad.zoominimageview.ZoomInImageView
                                 android:layout_width="match_parent"

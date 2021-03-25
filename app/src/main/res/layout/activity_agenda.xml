@@ -123,7 +123,7 @@
             <com.zolad.zoominimageview.ZoomInImageView
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:src="@drawable/kartini1">
+                android:src="@drawable/kartini2">
 
             </com.zolad.zoominimageview.ZoomInImageView>
 
@@ -138,6 +138,186 @@
                 android:padding="10dp">
 
             </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Adiwiyata"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/adiwiyata">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Adiwiyata adalah supaya membangun program atau wadah yang baik dan ideal untuk mendapatkan ilmu pengetahuan dan berbagai norma serta etika yang dapat menjadi dasar manusia menuju terciptanya kesejahteraan hidup untuk Cita-cita pembangunan berkelanjutan. Adiwiyata merupakan nama program pendidikan lingkungan hidup."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Kurban"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/kurban1">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Kurban, yang berarti dekat atau mendekatkan atau disebut juga Udhhiyah atau Dhahiyyah secara harfiah berarti hewan sembelihan. Sedangkan ritual kurban adalah salah satu ritual ibadah pemeluk agama Islam, dimana dilakukan penyembelihan binatang ternak untuk dipersembahkan kepada Allah."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Zakat fitrah"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/zakatfitrah">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Zakat fitrah ialah zakat diri yang diwajibkan atas diri setiap individu laki-laki maupun perempuan muslim yang berkemampuan sesuai syarat-syarat yang ditetapkan."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Buka Bersama"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/bazar1">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text=" Iftar adalah salah satu ibadah di bulan Ramadan dan sering dilakukan oleh sebuah komunitas, dan orang-orang berkumpul untuk berbuka puasa bersama-sama. Iftar dilakukan tepat setelah waktu Magrib."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Maulid Nabi"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/maulid1">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Maulid Nabi Muhammad ﷺ kadang-kadang Maulid Nabi atau Maulud saja, adalah peringatan hari lahir Nabi Muhammad ﷺ, yang di Indonesia perayaannya jatuh pada setiap tanggal 12 Rabiul Awal dalam penanggalan Hijriyah. Kata maulid atau milad dalam bahasa Arab berarti hari lahir."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Kartini"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/kartini2">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Hari Kartini adalah hari kelahiran Pahlawan Kemerdekaan Nasional Raden Ayu Kartini (RA Kartini) pada tanggal 21 April setiap tahun sejak tahun 1964 di peringati oleh seluruh bangsa Indonesia. Tujuan peringatan Hari kartini adalah untuk memperingati dan menghormati perjuangan R.A."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+
+
+
+
+
+
 
         </LinearLayout>
 

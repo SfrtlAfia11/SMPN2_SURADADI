@@ -128,7 +128,7 @@
                     android:layout_marginLeft="2dp"
                     android:layout_marginTop="2dp"
                     android:layout_marginRight="2dp"
-                    android:src="@drawable/pramuka" />
+                    android:src="@drawable/pramuka2" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
@@ -837,6 +837,84 @@ Perangkat peralatan musik tradisional itu disebut Gamelan, yang terdiri dari ber
                     android:textSize="9sp" />
 
             </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <com.zolad.zoominimageview.ZoomInImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginRight="2dp"
+                    android:src="@drawable/mading1" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5sp"
+                    android:text="ORGANISASI MADING"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="5sp"
+                    android:text="Majalah dinding adalah salah satu jenis media komunikasi massa tulis yang paling sederhana. Disebut majalah dinding karena prinsip dasar majalah terasa dominan di dalamnya, sementara itu penyajiannya biasanya dipampang pada dinding atau yang sejenisnya."
+                    android:textColor="#000"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="65dp"
+                    android:layout_marginRight="5sp"
+                    android:text="JADWAL PERTEMUAN:"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginRight="5sp"
+                    android:text="JUM'AT PUKUL 13.30-16.00"
+                    android:textColor="#000"
+                    android:textSize="9sp" />
+
+            </androidx.cardview.widget.CardView>
+
 
 
 
