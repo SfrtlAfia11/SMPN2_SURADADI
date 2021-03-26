@@ -111,7 +111,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:text="Kartini"
+                android:text="Pelantikan Osis"
                 android:textSize="40dp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -131,7 +131,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="130dp"
                 android:layout_gravity="center_horizontal"
-                android:text="Setiap tangggal 21 April seluruh sekola pasti mengadakan upacara hari kartini terutama di sekola SMPN 8 TEGAL."
+                android:text="Setiap tahun di SMPN 8 TEGAL mengadakan kegiatan pilihan ketua osis dan wakil osis"
                 android:textSize="15dp"
                 android:textStyle="bold"
                 android:paddingLeft="10dp"
