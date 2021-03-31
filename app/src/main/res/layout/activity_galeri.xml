@@ -17,7 +17,7 @@
             android:fitsSystemWindows="true"
             app:contentScrim="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
-            app:title="EKSTRAKULIKULER"
+            app:title="GALERI"
 
             android:id="@+id/collapsing_tool">
 
