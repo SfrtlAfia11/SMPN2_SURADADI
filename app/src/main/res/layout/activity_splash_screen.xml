@@ -40,11 +40,8 @@
         android:layout_marginEnd="150dp"
         android:layout_marginRight="150dp"
         android:layout_marginBottom="80dp"
-        android:text="Team 10     :
-1.Sofirotul Afia
-2.Silfi Hikmah Wati
-3.Hilmy Muhyesa
-4.Adam Putra Mo'sali"
+        android:text="
+         kelompok 10 "
         android:textColor="#000"
         android:textSize="15dp"
         android:textStyle="bold" />
