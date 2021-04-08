@@ -32,17 +32,19 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content">
 
+
+                            <com.zolad.zoominimageview.ZoomInImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/jaya"
+                                android:scaleType="fitXY"/>
+
                             <com.zolad.zoominimageview.ZoomInImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:src="@drawable/kelas"
                                 android:scaleType="fitXY"/>
 
-                            <com.zolad.zoominimageview.ZoomInImageView
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:scaleType="centerCrop"
-                                android:src="@drawable/guru2" />
                             <com.zolad.zoominimageview.ZoomInImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"

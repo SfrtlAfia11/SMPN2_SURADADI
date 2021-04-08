@@ -36,7 +36,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/kurdi" />
 
             </androidx.cardview.widget.CardView>
 
@@ -87,7 +87,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/indahkur" />
 
             </androidx.cardview.widget.CardView>
 
@@ -234,7 +234,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/supangadi" />
 
             </androidx.cardview.widget.CardView>
 
@@ -380,7 +380,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/puji" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -572,7 +572,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/azki" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -620,7 +620,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/supangadi" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -668,7 +668,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/indahkur" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -716,7 +716,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/setyoningrum" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -764,7 +764,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/azki" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -812,7 +812,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/wijayanti" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1004,7 +1004,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/wijayanti" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1052,7 +1052,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/setyoningrum" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1196,7 +1196,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                   android:src="@drawable/choirunisa" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1340,7 +1340,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/burhanes" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1436,7 +1436,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/baeti" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1677,7 +1677,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/choirunisa" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1725,7 +1725,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/jokopam" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1869,7 +1869,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/nuryasin" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -1965,7 +1965,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/puji" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2061,7 +2061,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/azki" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2157,7 +2157,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/setyoningrum" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2253,7 +2253,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/sudarmi" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2301,7 +2301,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/supangadi" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2493,7 +2493,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/wijayanti" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2589,7 +2589,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/widjunarso" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
