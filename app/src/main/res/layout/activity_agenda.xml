@@ -255,6 +255,68 @@
                 android:paddingLeft="10dp">
 
             </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Kegiatan ISRA MI'RAJ"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/isra">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Isra Mikraj adalah dua bagian perjalanan yang dilakukan oleh Nabi Muhammad ﷺ dalam waktu satu malam saja. Kejadian ini merupakan salah satu peristiwa penting bagi umat Islam, karena pada peristiwa inilah beliau mendapat perintah untuk menunaikan salat lima waktu sehari semalam."
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Kegiatan NuzululQur'an"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <com.zolad.zoominimageview.ZoomInImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/nuzulul">
+
+            </com.zolad.zoominimageview.ZoomInImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Setiap tanggal 17 Ramadhan seluruh umat islam mengadakan Nuzulul Qur'an terutama di SMPN 8 TEGAL"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp">
+
+            </TextView>
+
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
