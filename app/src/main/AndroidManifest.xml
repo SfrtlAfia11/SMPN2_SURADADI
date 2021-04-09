@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logosmpn8tegal"
+        android:icon="@drawable/logoanyar"
         android:label="SMPN 8 TEGAL"
-        android:roundIcon="@drawable/logosmpn8tegal"
+        android:roundIcon="@drawable/logoanyar"
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPN2SURADADI">
         <activity
