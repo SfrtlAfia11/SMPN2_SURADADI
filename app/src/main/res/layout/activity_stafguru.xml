@@ -1628,7 +1628,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/jokosap" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -2109,7 +2109,7 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-                    android:src="@drawable/staf" />
+                    android:src="@drawable/tarnoto" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
